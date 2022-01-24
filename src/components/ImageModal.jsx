@@ -1,4 +1,3 @@
-
 import { Modal } from "react-bootstrap";
 
 function MyVerticallyCenteredModal(props) {
